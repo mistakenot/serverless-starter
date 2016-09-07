@@ -1,0 +1,14 @@
+{
+  "name": "serverless-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
